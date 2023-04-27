@@ -1,4 +1,4 @@
-module ginhook
+module github.com/voplme/ginhook
 
 go 1.20
 
